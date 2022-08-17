@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linchristopher24
 - 👀 I’m interested in data analysis, data engineering
-- 🌱 I’m currently learning python, ETL, scripting, data analysis on larger data sets
+- 🌱 I’m currently learning python, react, ETL, scripting, data analysis on larger data sets
 
 
 <!---
